@@ -459,7 +459,7 @@ background-color:yellow;
   bottom: 20%;
   z-index: 5;
   gap: 1em;
-  width: 40%;
+  width: 60%;
   transition: scale 0.5s;
 }
 .pSkills {
