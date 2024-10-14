@@ -431,6 +431,15 @@ background-color:yellow;
 
   background-position: center;
 }
+
+#poject5 {
+  background: url(project1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-position: center;
+}
+
 #project .left{
     left:0%;
 }
