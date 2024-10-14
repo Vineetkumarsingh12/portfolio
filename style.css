@@ -456,7 +456,8 @@ background-color:yellow;
   flex-direction: column;
   color: white;
   padding: 2em;
-  bottom: 10%;
+  /* bottom: 10%; */
+  bottom: 0px;
   z-index: 5;
   gap: 1em;
   width: 60%;
