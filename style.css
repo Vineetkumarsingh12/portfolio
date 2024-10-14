@@ -764,15 +764,15 @@ form .btn2{
         
     }
 
-    #project .left{
+    /* #project .left{
         left:0%;
     }
     #project .right{
         right:0%; 
-    }
+    } */
 
     .projects{
-        width: 90%;
+        /* width: 90%; */
         height: 33em;
         background-image: fit;
     }
@@ -780,16 +780,16 @@ form .btn2{
     .icons .btn{
         padding: 3px;
     }
-    .projectContent{
+    /* .projectContent{
         width: 100%;
-    }
-    .projectContent-right{
+    } */
+    /* .projectContent-right{
         right:-1%;
-        }
+        } */
         
-        .projectContent-left{
+        /* .projectContent-left{
         left:10%;
-        }
+        } */
         .numberRight{
             right:-0.4em;
             top:-0.2em;
@@ -812,7 +812,7 @@ form .btn2{
         
          }
          #SkillSection .conatiner{
-            width: 80%;
+            /* width: 80%; */
             margin: 0 auto;
             display: flex;
             
