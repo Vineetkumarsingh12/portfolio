@@ -783,9 +783,9 @@ form .btn2{
     .projectContent{
         width: 100%;
     }
-    /* .projectContent-right{
+    .projectContent-right{
         right:-1%;
-        } */
+        }
         
         .projectContent-left{
         left:10%;
