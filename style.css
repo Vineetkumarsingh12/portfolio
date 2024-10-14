@@ -764,15 +764,15 @@ form .btn2{
         
     }
 
-    /* #project .left{
+    #project .left{
         left:0%;
     }
     #project .right{
         right:0%; 
-    } */
+    }
 
     .projects{
-        /* width: 90%; */
+        width: 90%;
         height: 33em;
         background-image: fit;
     }
@@ -812,7 +812,7 @@ form .btn2{
         
          }
          #SkillSection .conatiner{
-            /* width: 80%; */
+            width: 80%;
             margin: 0 auto;
             display: flex;
             
