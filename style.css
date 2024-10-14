@@ -728,3 +728,125 @@ form .btn2{
 
 
 /*   respnsive */
+@media only screen and (max-width: 768px) {
+    .container{
+        width:100%;
+      
+    }
+    #nav .container{
+      flex-direction: column;
+     
+     
+  }
+  .logo{
+    margin-left: 4px;
+  }
+    .sidebar{
+        padding: 0 1rem;
+    }
+    #portfolio .conatiner {
+        
+        height: 900px;
+       
+       
+        
+    }
+
+    .notEditable{
+        display: none;
+    }
+    .left{
+        width:100%;
+    }
+    #project .conatiner{
+        width:100%;
+        /* margin: 100px auto; */
+        
+    }
+
+    /* #project .left{
+        left:0%;
+    }
+    #project .right{
+        right:0%; 
+    } */
+
+    .projects{
+        /* width: 90%; */
+        height: 33em;
+        background-image: fit;
+    }
+
+    .icons .btn{
+        padding: 3px;
+    }
+    .projectContent{
+        width: 100%;
+    }
+    .projectContent-right{
+        right:-1%;
+        }
+        
+        .projectContent-left{
+        left:10%;
+        }
+        .numberRight{
+            right:-0.4em;
+            top:-0.2em;
+        
+        }
+        .numberLeft{
+            top:-0.2em;
+            left:-0.4em;   
+        }
+
+        .projectNumber{
+           
+            font-size: 5em;
+
+          
+        }
+
+        #SkillSection{
+            width: 100%;
+        
+         }
+         #SkillSection .conatiner{
+            /* width: 80%; */
+            margin: 0 auto;
+            display: flex;
+            
+          
+        
+            padding-top:1rem;
+            gap:1rem;
+        }
+        .sImage{
+            width:3em;
+          
+          }
+          #contact .row{
+            display: flex;
+            gap:5rem;
+            flex-direction: column;
+            align-items: center;
+        }
+          .contact-left{
+
+            /* --imp--- */
+      gap: 5px;
+       
+        }
+        .contact-right form{
+            width: 80%;
+            margin: 5px auto;
+        }
+
+        .icons span{
+         text-align: center;
+        }
+        
+        #msg{
+   margin-left:60px;
+} 
+}
