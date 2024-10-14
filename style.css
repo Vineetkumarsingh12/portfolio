@@ -88,6 +88,10 @@ body {
   padding-bottom: 8rem;
 }
 
+#hire{
+  text-decoration: none;
+}
+
 .notEditable {
   user-select: none;
   position: absolute;
