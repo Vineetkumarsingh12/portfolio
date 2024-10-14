@@ -440,6 +440,28 @@ background-color:yellow;
   background-position: center;
 }
 
+#poject6{
+  background: url(project2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-position: center;
+}
+#poject7{
+  background: url(project3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-position: center;
+}
+#poject8{
+  background: url(project8.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-position: center;
+}
+
 #project .left{
     left:0%;
 }
